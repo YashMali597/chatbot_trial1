@@ -1,0 +1,32 @@
+{
+    "intents" :[
+        {
+            "tag":"greetings",
+            "patterns":["Hi","Hello","Good morning"],
+            "responses":["Hello, how can I help you?"]
+        },
+        {
+            "tag":"Name",
+            "patterns":["What is IEEE ?","What is IEEE and what does it stand for?","What is the full form of IEEE ?"],
+            "responses":["IEEE or Institute of Electrical and Electronics Engineers is the world’s largest technical professional organization dedicated to advancing technology for the benefit of humanity."]
+        },
+        {
+            "tag":"About",
+            "patterns":["What is a club all about?","What exactly do you do in the club?","What kind of activities does IEEE offer for students?","Are there any leadership opportunities available within IEEE for second year students?","Will IEEE help in our academics?"],
+            "responses":["IEEE is all about helping the IEEE Members in our college to keep up with current technology and improve themselves.","IEEE helps and guides the IEEE Members in our college to keep up with current technology and improve themselves.","We conduct workshops, seminars, competitions, podcasts etc."]
+        },
+        {
+            "tag":"Why IEEE",
+            "patterns":["Why IEEE and not any other club?"],
+            "responses":["IEEE is the most active Technical Club of the college. We interact with our members very frequently. So that's something in which IEEE stands out."]
+        },
+        {
+            "tag":"Exe-com",
+            "patterns":["How to join exe com?","How to become an exe com member?","What is IEEE Exe-Com?"],
+            "responses":["You can apply for the post the next time IEEE is recruiting members.","You will have to go through the interview process after the recruitment is announced.","IEEE Exe-Com is the Executive Committee of IEEE. It is responsible for conducting and handling all of the events of IEEE."]
+        }
+        
+
+
+    ]
+}
